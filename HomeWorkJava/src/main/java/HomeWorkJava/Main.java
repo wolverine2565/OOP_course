@@ -19,9 +19,9 @@ public class Main {
                 case 3:
                     new Task03();
                     break;
-//                case 4:
-//                    Task04;
-//                    break;
+                case 4:
+                    new Task04();
+                    break;
 //
                 default:
                     break;
