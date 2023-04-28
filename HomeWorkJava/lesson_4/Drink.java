@@ -1,4 +1,4 @@
-package homeLesson4;
+package lesson_4;
 
 
 public class Drink {
